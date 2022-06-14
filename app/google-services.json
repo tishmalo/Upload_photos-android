@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "1001732553057",
+    "firebase_url": "https://mytherapist-80222-default-rtdb.firebaseio.com",
+    "project_id": "mytherapist-80222",
+    "storage_bucket": "mytherapist-80222.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001732553057:android:3198b2a524026e47942d20",
+        "android_client_info": {
+          "package_name": "com.example.mytherapist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1001732553057-cedoa389j50ckkuh09khipc8kokqanfv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAa5GIuAZuf30I4K8k2hERKO9e-Ed0gptw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1001732553057-cedoa389j50ckkuh09khipc8kokqanfv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001732553057:android:4b2b3f5678a0d73c942d20",
+        "android_client_info": {
+          "package_name": "com.example.uploadtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1001732553057-cedoa389j50ckkuh09khipc8kokqanfv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAa5GIuAZuf30I4K8k2hERKO9e-Ed0gptw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1001732553057-cedoa389j50ckkuh09khipc8kokqanfv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
